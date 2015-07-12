@@ -9,17 +9,16 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Code Enthusiast
-tagline:             'Another developer blog about code and stuff.'
-description:         
-url:                 http://gjackson12.github.com
+title:               Graham Jackson
+tagline:             'A blog about coding, technology, and whatever else croses my mind.'
+description:
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
   name:              Graham Jackson
-  url:               https://twitter.com/code_enthusiast
+  url:               https://twitter.com/gjackson2015
   email:             graham.jackson07@gmail.com
 
 # Custom vars
